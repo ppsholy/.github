@@ -19,8 +19,13 @@
 7. If this helped please give us a star on github. ⭐
 
 **Other methods:**
+
 [![Deploy to Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/official/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/ppsholy/ppsholy.github.io)
+
 [![Deploy to Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/official/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ppsholy/ppsholy.github.io)
+
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/official/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repositoryhttps://github.com/ppsholy/ppsholy.github.io&branch=main&name=deploy-buttons)
+
 [![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/official/render.svg)](https://render.com/deploy?repo=https://github.com/ppsholy/ppsholy.github.io)
+
 [![Deploy to Cyclic](https://binbashbanana.github.io/deploy-buttons/buttons/official/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/ppsholy/ppsholy.github.io)
